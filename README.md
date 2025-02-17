@@ -64,7 +64,7 @@ I'm an *MSc student in Big Data Analytics* from India, with a strong foundation 
 
 ## 🔮 Philosophy  
 
-I approach data *not just as numbers but as stories—patterns waiting to be understood, **signals waiting to be extracted. The financial markets, like life, are a blend of chaos and order, and I aim to make sense of them using **statistics, ML, and intuition*.
+I approach data not just as numbers but as stories—patterns waiting to be understood, signals waiting to be extracted. The financial markets, like life, are a blend of chaos and order, and I aim to make sense of them using statistics, ML, and intuition.
 
 ---
 
